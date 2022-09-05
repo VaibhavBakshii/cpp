@@ -1,0 +1,2 @@
+# gdc-
+Just random c++ 
